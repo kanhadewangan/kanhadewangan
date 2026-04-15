@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanha Dewangan</h1>
 <h3 align="center">A passionate  developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanhadewangan" alt="kanhadewangan" /></a> </p>
+<img src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif"/>
 
 
 
